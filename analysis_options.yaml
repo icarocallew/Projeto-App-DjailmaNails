@@ -1,0 +1,13 @@
+# Configuração do analisador estático do Dart (Flutter)
+# Este arquivo define regras de lint e análise usadas no projeto.
+
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Exemplo de como habilitar ou desabilitar regras:
+    # avoid_print: false          # Permite usar print()
+    # prefer_single_quotes: true  # Exige aspas simples
+    # always_use_package_imports: true
+    # unnecessary_const: false
+    # prefer_const_constructors: true

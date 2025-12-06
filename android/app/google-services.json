@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73710104984",
+    "project_id": "agendamento-unhas-projeto",
+    "storage_bucket": "agendamento-unhas-projeto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73710104984:android:e1321cbf604b909268fbed",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsOXGaeJLUBl9UMXz_xXyf4udKGIaT8Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
